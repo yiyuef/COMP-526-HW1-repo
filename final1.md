@@ -9,7 +9,6 @@ In this tutorial, we will learn
    -  How to build a conforming Lagrangian FE space
    -  How to define the different terms in a weak form
    -  How to impose Dirichlet and Neumann boundary conditions
-   -  How to visualize results
 
 
 ## Problem statement
